@@ -1069,7 +1069,7 @@ def title():
     stdout.write(
         "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "          Type [help] to see the Commands    " + Fore.LIGHTCYAN_EX + "       ║\n")
     stdout.write(
-        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "         Contact Dev - Telegram @AuraNetz   " + Fore.LIGHTCYAN_EX + "      ║\n")
+        "             " + Fore.LIGHTCYAN_EX + "║ " + Fore.LIGHTWHITE_EX + "         Contact Dev - Telegram @adventurefillop   " + Fore.LIGHTCYAN_EX + "      ║\n")
     stdout.write("             " + Fore.LIGHTCYAN_EX + "╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
 
