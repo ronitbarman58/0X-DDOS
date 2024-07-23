@@ -7,3 +7,4 @@ INSTRUCTION
 CODER - @AuraNetz
 
 FOUNDER - @adventurefillop
+HIII BRO NEED HELP WITH THE main.py CODE PLS CONTACT ME IN THIS MAIL ID - ronitbarman6703@gmail.com
